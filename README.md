@@ -49,7 +49,7 @@ pip install -r requirements.txt
 1. Ensure you have the latest data in the `Historical Data/` and `Daily Game Data/` folders Please note that scraping a large number of games can take several hours to comply with the website's rules.
 2. Run the main Jupyter notebook:
 ```
-jupyter notebook NBA_Game_Predictor.ipynb
+jupyter notebook NBA Prediction.ipynb
 ```
 3. Follow the notebook cells to train models and make predictions.
 
