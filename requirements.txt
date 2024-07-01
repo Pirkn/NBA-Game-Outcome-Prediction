@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+optuna
+sklearn
+xgboost
+datetime
+time
+tensorflow
+warnings
+selenium
+lxml
