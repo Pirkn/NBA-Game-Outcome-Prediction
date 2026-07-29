@@ -98,9 +98,4 @@ Contributions to this project are welcome! Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-Berkhan Guzeller - berrkhanguzeller@gmail.com
-
-Project Link: https://github.com/yourusername/nba-game-outcome-prediction
-
----
-Created by Berkhan Guzeller | Istanbul Kultur University | Computer Science, 3rd Year
+Berkhan Guzeller - berkhandata@gmail.com
